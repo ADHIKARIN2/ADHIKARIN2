@@ -1,19 +1,23 @@
 body {
-    background-color: #333;
+    background-color:rgb(211, 171, 219);
 }
 
 h3 {
     color: #5D4954;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .introduction {
     font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .container {
     font-size: 18px;
+    font-style: italic;
 }
 
 .mytable {
     padding: 10px;
+    border-style: double;
 }
